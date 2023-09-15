@@ -9,4 +9,4 @@
 </ul>
 
 <h2>Screen</h2>
-![TourSite](https://github.com/mehmetalikimici/TourSite/assets/115737497/8377a075-b262-4e1b-a0f5-3c170dd62062)
+![TourSite](https://github.com/mehmetalikimici/TourSite/assets/115737497/e3f29791-9647-455a-9ade-6364f43bb839)
